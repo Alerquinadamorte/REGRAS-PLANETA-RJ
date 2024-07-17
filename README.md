@@ -204,7 +204,7 @@ As regras de planejamento nada mais são do que o bom-senso descrito e classific
 
 
 
-19 - AMOR À VIDA
+     19 - AMOR À VIDA
 
 
 19.1 - É a preocupação com a vida do seu personagem. Da mesma forma que na vida real tememos a morte, seu personagem também deve ter medo de sua própria vida, evitando situações que desafiem a morte e se expondo ao perigo. A ausência de "Amor à vida" resulta em uma punição gravíssima.
@@ -213,7 +213,7 @@ Se for avaliado e comprovada a falta de amor à vida, você pode perder tudo, in
 
 
 
-20 - RDM (Random Deathmatch)
+    20 - RDM (Random Deathmatch)
 
 
 20.1 - É matar alguém de forma aleatória, sem nenhum RP ou desenvolvimento para isso. Resumindo: Matar alguém sem motivo ou simplesmente pelo desejo de matar.
@@ -230,7 +230,7 @@ Utilizar veículos com a finalidade de causar danos é considerado VDM.
 
 
 
-22 - COMBAT LOGGING
+     22 - COMBAT LOGGING
 
 
 22.1 - É o ato de deslogar ou sair durante o RP ou PvP, de forma ilegítima, a fim de evitar uma atualização indesejável. (seja ela para evitar assalto, sequestro, abordagem ou procedimento policial, fuga ou qualquer outra vantagem).
@@ -243,7 +243,7 @@ Se o seu jogo travar inesperadamente, é imprescindível gravar um vídeo imedia
 
 
 
-23 - POWERGAMING
+     23 - POWERGAMING
 
 
 23.1 - É utilizar uma mecânica do jogo que não seria possível na vida real.
@@ -257,7 +257,7 @@ Vale ressaltar que é sempre bom considerar o bom senso!
 
 
 
-24- METAGAMING
+     24- METAGAMING
 
 
 24.1 - É a utilização de informações descobertas por meios externos (fora do planejamento), no jogo, seja para obtenção de vantagem/benefício ao seu personagem ou qualquer informação que deixe outro jogador no prejuízo, sem que previamente tenha existido um RP. Tudo que não foi visto ou repassado ao seu personagem enquanto em RP também poderá se enquadrar em metagaming.
@@ -268,7 +268,7 @@ As únicas informações que poderão ser utilizadas dentro do RP, serão as pub
 
 
 
-25 - REVENGE KILL
+    25 - REVENGE KILL
 
 
 25.1 - É buscar vingança contra uma ou mais pessoas de uma ação que você foi finalizado ou não pode se recordar que aconteceu. Indiferente ao motivo como se lembrou da ação, seja através de um amigo que também estava nela, ou devido a uma mensagem no celular, é extremamente proibido buscar vingança, uma vez que não possa se lembrar, nada poderá recordar sua memória.
@@ -277,7 +277,7 @@ A questão do esquecimento vai de acordo com o planejamento, se você foi morto 
 
 
 
-26 - COP BAIT
+    26 - COP BAIT
 
 
 26.1 - Será considerado baiting qualquer atitude que tenha a finalidade de enganar, trapacear e/ou emboscar alguém de forma desonesta e desonrosa, visando apenas o benefício próprio.
@@ -295,7 +295,7 @@ Vale ressaltar que as punições de COP BAIT serão consideradas gravíssimas.
 
 
 
-28 - DARK RP
+    28 - DARK RP
 
 
 28.1 - É fazer planejamento de assédio, estupro, racismo e demais ações preconceituosas, invasivas e absurdas.
@@ -304,7 +304,7 @@ A prática de Dark RP é passiva de banimento permanente do servidor.
 
 
 
-29 - FORÇAR RP
+    29 - FORÇAR RP
 
 
 29.1 - Forçar RP é criar situações nitidamente desnecessárias/forçadas onde os objetivos sejam gerar ação de tiro/morte/perseguição.
@@ -366,7 +366,7 @@ Qualquer uso indevido de imagens será considerado uma violação gravíssima é
 
 29.20 - 3 punições no período de um mês serão revertidas em BANIMENTO INDETERMINADO.
 
-30 - REGRAS DE NEGOCIAÇÃO
+     30 - REGRAS DE NEGOCIAÇÃO
 
 
 
@@ -391,7 +391,7 @@ Vale ressaltar que sempre deve existir a criatividade e o bom senso!
 
 
 
-REGRAS DE AÇÕES
+     REGRAS DE AÇÕES
 
 
 
@@ -475,7 +475,7 @@ BAQUES / INVASÕES
 
 24 - Não existe um limite de membros para sua favela podendo ter até moradores dentro da comunidade se os donos da favela assim permitirem.
 
-POLÍCIA 
+        POLÍCIA 
 
 25 - Durante uma perseguição, a polícia não pode atirar nos pneus dos veículos para forçar uma parada. O uso de tiros nos pneus só é permitido se houver autorização de uma patente superior ou se houver uma situação de risco iminente.
 
@@ -505,7 +505,7 @@ POLÍCIA
 Essas regras visam garantir um ambiente justo e equilibrado para todos os jogadores, promovendo o respeito mútuo e a diversão para todos os participantes do servidor.
 Estas regras visam manter a integridade do ambiente hospitalar, garantindo um atendimento justo e realista para todos os jogadores:
 
-30 - REGRAS DE PRISÃO
+     30 - REGRAS DE PRISÃO
 
 
 30.1 - O policial deve informar o motivo da prisão ao jogador e respeitar o tempo mínimo de 15 minutos de prisão preventina. 
@@ -529,7 +529,7 @@ Estas regras visam manter a integridade do ambiente hospitalar, garantindo um at
 Essas regras garantem que a experiência de prisão seja justa e equilibrada para todos os jogadores, evitando abusos e garantindo o cumprimento do RP.
 
 
-31 - REGRAS DE ROLEPLAY
+    31 - REGRAS DE ROLEPLAY
 
 31.1 - O Roleplay deve ser mantido em todos os momentos. Isso significa que os jogadores devem agir de acordo com seus personagens e com o ambiente do jogo.
 
@@ -561,7 +561,7 @@ Essas regras garantem que a experiência de prisão seja justa e equilibrada par
 
 33.3 - Ao continuar jogando no servidor, os jogadores concordam em cumprir as regras e Termos e Condições atualizados.
 
-34 - CRIANÇA E ADOLESCENTE
+     34 - CRIANÇA E ADOLESCENTE
 
 
 34.1 - Todas Skins que fogem da proposta de um adulto no servidor devem seguir extremamente a proposta do seu RP
